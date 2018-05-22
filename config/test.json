@@ -1,0 +1,10 @@
+{
+    "PORT":3009,
+    "databaseSettings"   : {
+      "host"    : "localhost",
+      "user"    : "ramnivas",
+      "password": "",
+      "database": "assignment",
+      "mysqlPORT": ""
+    }
+}
